@@ -1,5 +1,5 @@
 import requests
-import json
+import urllib.parse
 import asyncio
 from http import HTTPStatus
 import aiohttp
@@ -8,7 +8,8 @@ from argparse import ArgumentParser
 MAX_RESULTS = 200
 REVISIONS_API_TITLES_LIMIT = 50
 TITLE_SCORE_MULTIPLIER = 2
-WIKI_API_URL = "https://en.wikipedia.org/w/api.php"
+WIKI_BASE_URL = "https://en.wikipedia.org"
+WIKI_API_URL = "%s/w/api.php" % WIKI_BASE_URL
 RANDOM_API_REQ_PARAMS = {
     "list": "random",
     "rnlimit": MAX_RESULTS,
@@ -65,7 +66,6 @@ async def get_articles_by_titles(session, titles):
 def get_random_article_titles(n):
     # Get titles of N random articles using the API at https://www.mediawiki.org/wiki/API:Random
     res = requests.get(url=WIKI_API_URL, params=RANDOM_API_REQ_PARAMS)
-    print(res.url)
     res.raise_for_status()
     results = res.json()["query"]["random"]
 
@@ -89,6 +89,7 @@ def search(search_term, articles):
         relevance_score += content.count(search_term)
 
         article["relevance_score"] = relevance_score
+        article["url"] = "%s/wiki/%s" % (WIKI_BASE_URL, urllib.parse.quote(title))
         if relevance_score > 0:
             relevant_articles.append(article)
 
@@ -128,6 +129,9 @@ def main(search_term):
     titles = get_random_article_titles(MAX_RESULTS)
     articles = asyncio.run(get_articles_by_titles_parallel(titles))
     search_results = search(search_term, articles)
+    print(
+        [{"title": result["title"], "url": result["url"]} for result in search_results]
+    )
     return search_results
 
 
