@@ -1,0 +1,1580 @@
+{
+    "searchTerm": "the",
+    "wikiRandomAPIMockResponse": {
+        "batchcomplete": "",
+        "continue": {
+            "rncontinue": "0.774562538296|0.7745920776|17455754|0",
+            "continue": "-||"
+        },
+        "query": {
+            "random": [
+                {
+                    "id": 41803116,
+                    "ns": 0,
+                    "title": "Wittamer & Co"
+                },
+                {
+                    "id": 9498658,
+                    "ns": 0,
+                    "title": "Calum MacLeod (cricketer)"
+                },
+                {
+                    "id": 40634113,
+                    "ns": 0,
+                    "title": "Tristram T. Hyde"
+                },
+                {
+                    "id": 28542560,
+                    "ns": 0,
+                    "title": "Gábor Herendi"
+                },
+                {
+                    "id": 33457411,
+                    "ns": 0,
+                    "title": "Transformational festival"
+                },
+                {
+                    "id": 44964703,
+                    "ns": 0,
+                    "title": "Time and Trauma"
+                },
+                {
+                    "id": 29159821,
+                    "ns": 0,
+                    "title": "1959 (John Anderson song)"
+                },
+                {
+                    "id": 28021913,
+                    "ns": 0,
+                    "title": "Lake Télé Community Reserve"
+                },
+                {
+                    "id": 14118021,
+                    "ns": 0,
+                    "title": "Hannah Aitchison"
+                },
+                {
+                    "id": 39325563,
+                    "ns": 0,
+                    "title": "Fatih Bridge"
+                },
+                {
+                    "id": 25851060,
+                    "ns": 0,
+                    "title": "Lasionycta coracina"
+                },
+                {
+                    "id": 14053430,
+                    "ns": 0,
+                    "title": "David Price (boxer)"
+                },
+                {
+                    "id": 20838612,
+                    "ns": 0,
+                    "title": "Henry Kumpf"
+                },
+                {
+                    "id": 68243026,
+                    "ns": 0,
+                    "title": "Carlo Albanesi"
+                },
+                {
+                    "id": 3719491,
+                    "ns": 0,
+                    "title": "Sheer Greed (band)"
+                },
+                {
+                    "id": 69124030,
+                    "ns": 0,
+                    "title": "1882 Nevada gubernatorial election"
+                },
+                {
+                    "id": 34261143,
+                    "ns": 0,
+                    "title": "Hulk Hogan's Main Event"
+                },
+                {
+                    "id": 10490112,
+                    "ns": 0,
+                    "title": "Robocco Wars"
+                },
+                {
+                    "id": 709456,
+                    "ns": 0,
+                    "title": "Kay Boyle"
+                },
+                {
+                    "id": 28731926,
+                    "ns": 0,
+                    "title": "Hans Wunderlich"
+                },
+                {
+                    "id": 10252052,
+                    "ns": 0,
+                    "title": "8th Maryland Infantry Regiment"
+                },
+                {
+                    "id": 39306595,
+                    "ns": 0,
+                    "title": "Eugène Eschassériaux"
+                },
+                {
+                    "id": 64252602,
+                    "ns": 0,
+                    "title": "Ernest Alexander (disambiguation)"
+                },
+                {
+                    "id": 13151076,
+                    "ns": 0,
+                    "title": "Crinum thaianum"
+                },
+                {
+                    "id": 3977585,
+                    "ns": 0,
+                    "title": "Enrico Corradini"
+                },
+                {
+                    "id": 647274,
+                    "ns": 0,
+                    "title": "Nick Heidfeld"
+                },
+                {
+                    "id": 1174243,
+                    "ns": 0,
+                    "title": "Al Waxman"
+                },
+                {
+                    "id": 22718429,
+                    "ns": 0,
+                    "title": "Fanbyn"
+                },
+                {
+                    "id": 61020202,
+                    "ns": 0,
+                    "title": "Yuumi"
+                },
+                {
+                    "id": 55663,
+                    "ns": 0,
+                    "title": "Pendleton Civil Service Reform Act"
+                },
+                {
+                    "id": 39916985,
+                    "ns": 0,
+                    "title": "Prospectatrix"
+                },
+                {
+                    "id": 23721472,
+                    "ns": 0,
+                    "title": "Trent Bray (American football)"
+                },
+                {
+                    "id": 30974493,
+                    "ns": 0,
+                    "title": "United Nations Security Council Resolution 1610"
+                },
+                {
+                    "id": 62956069,
+                    "ns": 0,
+                    "title": "Marcus Alexis"
+                },
+                {
+                    "id": 25137935,
+                    "ns": 0,
+                    "title": "North Lancashire and Cumbria League"
+                },
+                {
+                    "id": 2919052,
+                    "ns": 0,
+                    "title": "Kanchanpur District"
+                },
+                {
+                    "id": 26769404,
+                    "ns": 0,
+                    "title": "Texas Star (disambiguation)"
+                },
+                {
+                    "id": 63568461,
+                    "ns": 0,
+                    "title": "Bodington"
+                },
+                {
+                    "id": 9122711,
+                    "ns": 0,
+                    "title": "Lynn Carey Saylor"
+                },
+                {
+                    "id": 64927727,
+                    "ns": 0,
+                    "title": "Iloilo Provincial Board"
+                },
+                {
+                    "id": 24739970,
+                    "ns": 0,
+                    "title": "Garbuttsville Cemetery"
+                },
+                {
+                    "id": 28685021,
+                    "ns": 0,
+                    "title": "Arcos Reservoir"
+                },
+                {
+                    "id": 38339962,
+                    "ns": 0,
+                    "title": "Mombo Airstrip"
+                },
+                {
+                    "id": 11027263,
+                    "ns": 0,
+                    "title": "The Dreamwalker's Child"
+                },
+                {
+                    "id": 22178974,
+                    "ns": 0,
+                    "title": "Dysgnathia"
+                },
+                {
+                    "id": 69460259,
+                    "ns": 0,
+                    "title": "Juan Pablo González"
+                },
+                {
+                    "id": 9285474,
+                    "ns": 0,
+                    "title": "Behavioral modeling in computer-aided design"
+                },
+                {
+                    "id": 14531676,
+                    "ns": 0,
+                    "title": "Hiroshi Minami (actor)"
+                },
+                {
+                    "id": 465859,
+                    "ns": 0,
+                    "title": "Jane Davidson"
+                },
+                {
+                    "id": 35230751,
+                    "ns": 0,
+                    "title": "Edmund Boulnois"
+                },
+                {
+                    "id": 47481861,
+                    "ns": 0,
+                    "title": "1997 Women's British Open Squash Championship"
+                },
+                {
+                    "id": 630432,
+                    "ns": 0,
+                    "title": "Popples"
+                },
+                {
+                    "id": 35415191,
+                    "ns": 0,
+                    "title": "2012 Reading Borough Council election"
+                },
+                {
+                    "id": 22337774,
+                    "ns": 0,
+                    "title": "John Coyne (soccer)"
+                },
+                {
+                    "id": 46929968,
+                    "ns": 0,
+                    "title": "Pinguicula macroceras"
+                },
+                {
+                    "id": 1686408,
+                    "ns": 0,
+                    "title": "Telstar 301"
+                },
+                {
+                    "id": 69363575,
+                    "ns": 0,
+                    "title": "Michael Roberts (tennis)"
+                },
+                {
+                    "id": 43021277,
+                    "ns": 0,
+                    "title": "Illinois Department of Employment Security"
+                },
+                {
+                    "id": 69197525,
+                    "ns": 0,
+                    "title": "1959 Texas A&I Javelinas football team"
+                },
+                {
+                    "id": 12144102,
+                    "ns": 0,
+                    "title": "Claw (juggling)"
+                },
+                {
+                    "id": 649474,
+                    "ns": 0,
+                    "title": "Dev-C++"
+                },
+                {
+                    "id": 40874412,
+                    "ns": 0,
+                    "title": "Steve Martino"
+                },
+                {
+                    "id": 63778187,
+                    "ns": 0,
+                    "title": "Building at 813–815 Forest Avenue"
+                },
+                {
+                    "id": 36060520,
+                    "ns": 0,
+                    "title": "Salaq-e Nuri"
+                },
+                {
+                    "id": 69171386,
+                    "ns": 0,
+                    "title": "Enrico Maaßen"
+                },
+                {
+                    "id": 33439730,
+                    "ns": 0,
+                    "title": "Walter Calverley (disambiguation)"
+                },
+                {
+                    "id": 41324821,
+                    "ns": 0,
+                    "title": "Gomphocarpus"
+                },
+                {
+                    "id": 33471124,
+                    "ns": 0,
+                    "title": "Žirovnica, Sevnica"
+                },
+                {
+                    "id": 65892413,
+                    "ns": 0,
+                    "title": "Markus Åkesson"
+                },
+                {
+                    "id": 56797464,
+                    "ns": 0,
+                    "title": "Alvarus E. Gilbert"
+                },
+                {
+                    "id": 30031731,
+                    "ns": 0,
+                    "title": "Eiji (Ryukyu)"
+                },
+                {
+                    "id": 44402171,
+                    "ns": 0,
+                    "title": "Eudonia piroformis"
+                },
+                {
+                    "id": 34466796,
+                    "ns": 0,
+                    "title": "You'll Never Know (Kim Richey song)"
+                },
+                {
+                    "id": 36413649,
+                    "ns": 0,
+                    "title": "Kırahmetler, Gazipaşa"
+                },
+                {
+                    "id": 58788949,
+                    "ns": 0,
+                    "title": "Yevgeniy Abramovich"
+                },
+                {
+                    "id": 59218878,
+                    "ns": 0,
+                    "title": "1899–1900 Woolwich Arsenal F.C. season"
+                },
+                {
+                    "id": 68229680,
+                    "ns": 0,
+                    "title": "Republic of the Congo at the 2019 World Athletics Championships"
+                },
+                {
+                    "id": 65727448,
+                    "ns": 0,
+                    "title": "List of ambassadors of South Korea to the United States"
+                },
+                {
+                    "id": 42712676,
+                    "ns": 0,
+                    "title": "Megalovalvata baicalensis"
+                },
+                {
+                    "id": 28006865,
+                    "ns": 0,
+                    "title": "William Gibson (Ulster Unionist Party politician)"
+                },
+                {
+                    "id": 51852676,
+                    "ns": 0,
+                    "title": "1963 Ohio Bobcats football team"
+                },
+                {
+                    "id": 36228116,
+                    "ns": 0,
+                    "title": "Alexander Winkler (composer)"
+                },
+                {
+                    "id": 5155132,
+                    "ns": 0,
+                    "title": "Stan Frankel"
+                },
+                {
+                    "id": 41516702,
+                    "ns": 0,
+                    "title": "Buffaloes F.C."
+                },
+                {
+                    "id": 2617409,
+                    "ns": 0,
+                    "title": "Gems of Divine Mysteries"
+                },
+                {
+                    "id": 44641542,
+                    "ns": 0,
+                    "title": "Desmia trimaculalis"
+                },
+                {
+                    "id": 4485785,
+                    "ns": 0,
+                    "title": "Cecil Marshall"
+                },
+                {
+                    "id": 30309736,
+                    "ns": 0,
+                    "title": "Sölvesborgs GoIF"
+                },
+                {
+                    "id": 38916952,
+                    "ns": 0,
+                    "title": "Portalegre Municipality"
+                },
+                {
+                    "id": 27111446,
+                    "ns": 0,
+                    "title": "Raffaele Piria"
+                },
+                {
+                    "id": 30873806,
+                    "ns": 0,
+                    "title": "Scorpion (Star Trek: Voyager)"
+                },
+                {
+                    "id": 53393816,
+                    "ns": 0,
+                    "title": "Joachim Schmettau"
+                },
+                {
+                    "id": 64010831,
+                    "ns": 0,
+                    "title": "James M. Baxter Terrace Housing Projects"
+                },
+                {
+                    "id": 18262822,
+                    "ns": 0,
+                    "title": "Radio3 Scienza"
+                },
+                {
+                    "id": 15928146,
+                    "ns": 0,
+                    "title": "WASR"
+                },
+                {
+                    "id": 40444282,
+                    "ns": 0,
+                    "title": "Amendments to the Citizenship Law (popular initiative, Latvia)"
+                },
+                {
+                    "id": 45144545,
+                    "ns": 0,
+                    "title": "Parker Pond (Maryland)"
+                },
+                {
+                    "id": 28037493,
+                    "ns": 0,
+                    "title": "Glenn Falkenstein"
+                },
+                {
+                    "id": 44743718,
+                    "ns": 0,
+                    "title": "Aiptasiidae"
+                },
+                {
+                    "id": 215266,
+                    "ns": 0,
+                    "title": "Pinnacles National Park"
+                },
+                {
+                    "id": 15905485,
+                    "ns": 0,
+                    "title": "Kaihu"
+                },
+                {
+                    "id": 27650295,
+                    "ns": 0,
+                    "title": "Robert Klein (Medal of Honor)"
+                },
+                {
+                    "id": 39249593,
+                    "ns": 0,
+                    "title": "Law Cheung-kwok"
+                },
+                {
+                    "id": 536179,
+                    "ns": 0,
+                    "title": "Robie House"
+                },
+                {
+                    "id": 62100020,
+                    "ns": 0,
+                    "title": "Cherkomasyev"
+                },
+                {
+                    "id": 43365029,
+                    "ns": 0,
+                    "title": "Harmologa amplexana"
+                },
+                {
+                    "id": 69262212,
+                    "ns": 0,
+                    "title": "Hamilton Campos"
+                },
+                {
+                    "id": 59052106,
+                    "ns": 0,
+                    "title": "Los Lichis"
+                },
+                {
+                    "id": 9566886,
+                    "ns": 0,
+                    "title": "Euprymna"
+                },
+                {
+                    "id": 43018486,
+                    "ns": 0,
+                    "title": "Spathorhynchus"
+                },
+                {
+                    "id": 55646338,
+                    "ns": 0,
+                    "title": "2017–18 NLEX Road Warriors season"
+                },
+                {
+                    "id": 49611361,
+                    "ns": 0,
+                    "title": "1913 Kendall Orange and Black football team"
+                },
+                {
+                    "id": 12702534,
+                    "ns": 0,
+                    "title": "Hemistigma albipunctum"
+                },
+                {
+                    "id": 53346,
+                    "ns": 0,
+                    "title": "Puck (A Midsummer Night's Dream)"
+                },
+                {
+                    "id": 23619369,
+                    "ns": 0,
+                    "title": "Counties of Romania"
+                },
+                {
+                    "id": 629949,
+                    "ns": 0,
+                    "title": "Shōwa, Yamanashi"
+                },
+                {
+                    "id": 57005596,
+                    "ns": 0,
+                    "title": "Richard Houghton (died c. 1422)"
+                },
+                {
+                    "id": 17673063,
+                    "ns": 0,
+                    "title": "Confessions of an Opium Eater"
+                },
+                {
+                    "id": 2869372,
+                    "ns": 0,
+                    "title": "Toksovo"
+                },
+                {
+                    "id": 66896747,
+                    "ns": 0,
+                    "title": "Joseph Obiri Yeboah Mante"
+                },
+                {
+                    "id": 28412870,
+                    "ns": 0,
+                    "title": "Mutharamkunnu P.O."
+                },
+                {
+                    "id": 3090104,
+                    "ns": 0,
+                    "title": "Alex Kidd: The Lost Stars"
+                },
+                {
+                    "id": 26825866,
+                    "ns": 0,
+                    "title": "Goat Haunt Mountain"
+                },
+                {
+                    "id": 3587200,
+                    "ns": 0,
+                    "title": "Ayumi Hamasaki discography"
+                },
+                {
+                    "id": 44397983,
+                    "ns": 0,
+                    "title": "Try Me (Dej Loaf song)"
+                },
+                {
+                    "id": 42693728,
+                    "ns": 0,
+                    "title": "Bois Moquette"
+                },
+                {
+                    "id": 27033969,
+                    "ns": 0,
+                    "title": "Kondarangi Keeranur"
+                },
+                {
+                    "id": 12906815,
+                    "ns": 0,
+                    "title": "Pitcairnia reflexiflora"
+                },
+                {
+                    "id": 23642426,
+                    "ns": 0,
+                    "title": "CoBoosting"
+                },
+                {
+                    "id": 25894953,
+                    "ns": 0,
+                    "title": "Tora-san's Promise"
+                },
+                {
+                    "id": 6124577,
+                    "ns": 0,
+                    "title": "Kenn, Somerset"
+                },
+                {
+                    "id": 31780346,
+                    "ns": 0,
+                    "title": "At Point Blank (TV series)"
+                },
+                {
+                    "id": 6646507,
+                    "ns": 0,
+                    "title": "European Prospective Investigation into Cancer and Nutrition"
+                },
+                {
+                    "id": 39321276,
+                    "ns": 0,
+                    "title": "Darkfever"
+                },
+                {
+                    "id": 39982022,
+                    "ns": 0,
+                    "title": "Palmer Williams Jr."
+                },
+                {
+                    "id": 18772570,
+                    "ns": 0,
+                    "title": "Osiny, Łask County"
+                },
+                {
+                    "id": 3066656,
+                    "ns": 0,
+                    "title": "Melinda O. Fee"
+                },
+                {
+                    "id": 60904482,
+                    "ns": 0,
+                    "title": "Graham Creek (Rogue River tributary)"
+                },
+                {
+                    "id": 1633085,
+                    "ns": 0,
+                    "title": "Herb Asher"
+                },
+                {
+                    "id": 11440789,
+                    "ns": 0,
+                    "title": "WIPAHS"
+                },
+                {
+                    "id": 6530148,
+                    "ns": 0,
+                    "title": "Zugliano"
+                },
+                {
+                    "id": 69839250,
+                    "ns": 0,
+                    "title": "List of Scandinavian restaurants"
+                },
+                {
+                    "id": 71200305,
+                    "ns": 0,
+                    "title": "2022 World Mixed Doubles (snooker)"
+                },
+                {
+                    "id": 54478317,
+                    "ns": 0,
+                    "title": "Elevci"
+                },
+                {
+                    "id": 47783421,
+                    "ns": 0,
+                    "title": "Songs from the Chinese Poets"
+                },
+                {
+                    "id": 30179041,
+                    "ns": 0,
+                    "title": "Ralph of Bristol"
+                },
+                {
+                    "id": 57338852,
+                    "ns": 0,
+                    "title": "Entomobrya triangularis"
+                },
+                {
+                    "id": 1047924,
+                    "ns": 0,
+                    "title": "Daphnis and Chloe"
+                },
+                {
+                    "id": 45057445,
+                    "ns": 0,
+                    "title": "Firebase Currahee"
+                },
+                {
+                    "id": 34090671,
+                    "ns": 0,
+                    "title": "Viola Frey"
+                },
+                {
+                    "id": 63567951,
+                    "ns": 0,
+                    "title": "If You Leave Me, Can I Come Too?"
+                },
+                {
+                    "id": 11001264,
+                    "ns": 0,
+                    "title": "Ray Searage"
+                },
+                {
+                    "id": 31186034,
+                    "ns": 0,
+                    "title": "Aldo Vannucchi"
+                },
+                {
+                    "id": 17628064,
+                    "ns": 0,
+                    "title": "1992 in Burkina Faso"
+                },
+                {
+                    "id": 66734101,
+                    "ns": 0,
+                    "title": "Fernando González Molina"
+                },
+                {
+                    "id": 25902448,
+                    "ns": 0,
+                    "title": "Vaa Arugil Vaa"
+                },
+                {
+                    "id": 12690257,
+                    "ns": 0,
+                    "title": "First-time user experience"
+                },
+                {
+                    "id": 71177574,
+                    "ns": 0,
+                    "title": "George Balleine"
+                },
+                {
+                    "id": 27919005,
+                    "ns": 0,
+                    "title": "Venghai"
+                },
+                {
+                    "id": 5940580,
+                    "ns": 0,
+                    "title": "Plumsted"
+                },
+                {
+                    "id": 38466062,
+                    "ns": 0,
+                    "title": "K-1 Korea MAX 2013"
+                },
+                {
+                    "id": 49801886,
+                    "ns": 0,
+                    "title": "Fantasia (Brazilian television program)"
+                },
+                {
+                    "id": 51907680,
+                    "ns": 0,
+                    "title": "Mouhanad Khorchide"
+                },
+                {
+                    "id": 66726865,
+                    "ns": 0,
+                    "title": "Hinrich Brunsberg"
+                },
+                {
+                    "id": 39870843,
+                    "ns": 0,
+                    "title": "Budrys"
+                },
+                {
+                    "id": 4126661,
+                    "ns": 0,
+                    "title": "Manawatu Jets"
+                },
+                {
+                    "id": 69789795,
+                    "ns": 0,
+                    "title": "Spyridium burragorang"
+                },
+                {
+                    "id": 13236339,
+                    "ns": 0,
+                    "title": "Warren Bryant (American football)"
+                },
+                {
+                    "id": 43215568,
+                    "ns": 0,
+                    "title": "Everton Soares"
+                },
+                {
+                    "id": 70797641,
+                    "ns": 0,
+                    "title": "Ivan Chaikivskyi"
+                },
+                {
+                    "id": 65416029,
+                    "ns": 0,
+                    "title": "Marcos administration"
+                },
+                {
+                    "id": 42749862,
+                    "ns": 0,
+                    "title": "Mount Stephens"
+                },
+                {
+                    "id": 28222526,
+                    "ns": 0,
+                    "title": "Mánička"
+                },
+                {
+                    "id": 8440247,
+                    "ns": 0,
+                    "title": "List of mayors of St. Gallen"
+                },
+                {
+                    "id": 47272120,
+                    "ns": 0,
+                    "title": "Lungotevere Marzio"
+                },
+                {
+                    "id": 55827534,
+                    "ns": 0,
+                    "title": "Maliha Zulfacar"
+                },
+                {
+                    "id": 20741726,
+                    "ns": 0,
+                    "title": "Torovo"
+                },
+                {
+                    "id": 60114524,
+                    "ns": 0,
+                    "title": "InFocus Epic 1"
+                },
+                {
+                    "id": 24331711,
+                    "ns": 0,
+                    "title": "Campaign for Democratic Socialism"
+                },
+                {
+                    "id": 29399517,
+                    "ns": 0,
+                    "title": "Cholet Island"
+                },
+                {
+                    "id": 4527134,
+                    "ns": 0,
+                    "title": "Leningrad udelivaet Ameriku Disk 2"
+                },
+                {
+                    "id": 996986,
+                    "ns": 0,
+                    "title": "Tony Almeida"
+                },
+                {
+                    "id": 23206887,
+                    "ns": 0,
+                    "title": "Acianthera strupifolia"
+                },
+                {
+                    "id": 48713045,
+                    "ns": 0,
+                    "title": "Svetlana Selerneva"
+                },
+                {
+                    "id": 42507444,
+                    "ns": 0,
+                    "title": "Saphenista milicha"
+                },
+                {
+                    "id": 60898536,
+                    "ns": 0,
+                    "title": "Richard Maru"
+                },
+                {
+                    "id": 64198435,
+                    "ns": 0,
+                    "title": "Southeastern Papuan rain forests"
+                },
+                {
+                    "id": 55276348,
+                    "ns": 0,
+                    "title": "Muayad Al Khouli"
+                },
+                {
+                    "id": 8626945,
+                    "ns": 0,
+                    "title": "Birgit Hamann"
+                },
+                {
+                    "id": 6785040,
+                    "ns": 0,
+                    "title": "Speartooth shark"
+                },
+                {
+                    "id": 14361476,
+                    "ns": 0,
+                    "title": "Military museums in Denmark"
+                },
+                {
+                    "id": 46812618,
+                    "ns": 0,
+                    "title": "Bagre Dam"
+                },
+                {
+                    "id": 14527281,
+                    "ns": 0,
+                    "title": "Tango (Martins)"
+                },
+                {
+                    "id": 26375465,
+                    "ns": 0,
+                    "title": "German submarine U-1065"
+                },
+                {
+                    "id": 54395450,
+                    "ns": 0,
+                    "title": "Diocese of Maura"
+                },
+                {
+                    "id": 16596905,
+                    "ns": 0,
+                    "title": "Rural Municipality of Wallace"
+                },
+                {
+                    "id": 15739985,
+                    "ns": 0,
+                    "title": "William Foran"
+                },
+                {
+                    "id": 42965889,
+                    "ns": 0,
+                    "title": "Now That's What I Call R&B"
+                },
+                {
+                    "id": 71717289,
+                    "ns": 0,
+                    "title": "Julia Shepard Perkins"
+                },
+                {
+                    "id": 12825925,
+                    "ns": 0,
+                    "title": "Identity documents in Sweden"
+                }
+            ]
+        }
+    },
+    "expectedResults": [
+        {
+            "title": "Nick Heidfeld",
+            "relevance_score": 415
+        },
+        {
+            "title": "Robie House",
+            "relevance_score": 207
+        },
+        {
+            "title": "2012 Reading Borough Council election",
+            "relevance_score": 203
+        },
+        {
+            "title": "David Price (boxer)",
+            "relevance_score": 163
+        },
+        {
+            "title": "Pinnacles National Park",
+            "relevance_score": 124
+        },
+        {
+            "title": "Calum MacLeod (cricketer)",
+            "relevance_score": 106
+        },
+        {
+            "title": "Daphnis and Chloe",
+            "relevance_score": 93
+        },
+        {
+            "title": "Ayumi Hamasaki discography",
+            "relevance_score": 87
+        },
+        {
+            "title": "Popples",
+            "relevance_score": 78
+        },
+        {
+            "title": "Kay Boyle",
+            "relevance_score": 70
+        },
+        {
+            "title": "Markus Åkesson",
+            "relevance_score": 69
+        },
+        {
+            "title": "European Prospective Investigation into Cancer and Nutrition",
+            "relevance_score": 64
+        },
+        {
+            "title": "Counties of Romania",
+            "relevance_score": 61
+        },
+        {
+            "title": "Pendleton Civil Service Reform Act",
+            "relevance_score": 59
+        },
+        {
+            "title": "Puck (A Midsummer Night's Dream)",
+            "relevance_score": 53
+        },
+        {
+            "title": "Kaihu",
+            "relevance_score": 52
+        },
+        {
+            "title": "Viola Frey",
+            "relevance_score": 50
+        },
+        {
+            "title": "Scorpion (Star Trek: Voyager)",
+            "relevance_score": 45
+        },
+        {
+            "title": "Kenn, Somerset",
+            "relevance_score": 45
+        },
+        {
+            "title": "Darkfever",
+            "relevance_score": 44
+        },
+        {
+            "title": "Al Waxman",
+            "relevance_score": 39
+        },
+        {
+            "title": "Alexander Winkler (composer)",
+            "relevance_score": 35
+        },
+        {
+            "title": "Kanchanpur District",
+            "relevance_score": 33
+        },
+        {
+            "title": "Transformational festival",
+            "relevance_score": 32
+        },
+        {
+            "title": "2022 World Mixed Doubles (snooker)",
+            "relevance_score": 32
+        },
+        {
+            "title": "Glenn Falkenstein",
+            "relevance_score": 31
+        },
+        {
+            "title": "Hamilton Campos",
+            "relevance_score": 31
+        },
+        {
+            "title": "Lynn Carey Saylor",
+            "relevance_score": 30
+        },
+        {
+            "title": "Stan Frankel",
+            "relevance_score": 30
+        },
+        {
+            "title": "Toksovo",
+            "relevance_score": 30
+        },
+        {
+            "title": "Crinum thaianum",
+            "relevance_score": 29
+        },
+        {
+            "title": "Dev-C++",
+            "relevance_score": 29
+        },
+        {
+            "title": "Los Lichis",
+            "relevance_score": 29
+        },
+        {
+            "title": "Sölvesborgs GoIF",
+            "relevance_score": 28
+        },
+        {
+            "title": "The Dreamwalker's Child",
+            "relevance_score": 25
+        },
+        {
+            "title": "Carlo Albanesi",
+            "relevance_score": 23
+        },
+        {
+            "title": "CoBoosting",
+            "relevance_score": 23
+        },
+        {
+            "title": "Joseph Obiri Yeboah Mante",
+            "relevance_score": 23
+        },
+        {
+            "title": "Pinguicula macroceras",
+            "relevance_score": 22
+        },
+        {
+            "title": "Jane Davidson",
+            "relevance_score": 21
+        },
+        {
+            "title": "Enrico Corradini",
+            "relevance_score": 21
+        },
+        {
+            "title": "8th Maryland Infantry Regiment",
+            "relevance_score": 20
+        },
+        {
+            "title": "2017–18 NLEX Road Warriors season",
+            "relevance_score": 20
+        },
+        {
+            "title": "Steve Martino",
+            "relevance_score": 19
+        },
+        {
+            "title": "Radio3 Scienza",
+            "relevance_score": 18
+        },
+        {
+            "title": "Shōwa, Yamanashi",
+            "relevance_score": 18
+        },
+        {
+            "title": "Melinda O. Fee",
+            "relevance_score": 18
+        },
+        {
+            "title": "Marcus Alexis",
+            "relevance_score": 17
+        },
+        {
+            "title": "William Gibson (Ulster Unionist Party politician)",
+            "relevance_score": 17
+        },
+        {
+            "title": "Alex Kidd: The Lost Stars",
+            "relevance_score": 17
+        },
+        {
+            "title": "1959 Texas A&I Javelinas football team",
+            "relevance_score": 16
+        },
+        {
+            "title": "North Lancashire and Cumbria League",
+            "relevance_score": 15
+        },
+        {
+            "title": "WIPAHS",
+            "relevance_score": 15
+        },
+        {
+            "title": "Ralph of Bristol",
+            "relevance_score": 15
+        },
+        {
+            "title": "1882 Nevada gubernatorial election",
+            "relevance_score": 14
+        },
+        {
+            "title": "Gems of Divine Mysteries",
+            "relevance_score": 14
+        },
+        {
+            "title": "James M. Baxter Terrace Housing Projects",
+            "relevance_score": 14
+        },
+        {
+            "title": "List of ambassadors of South Korea to the United States",
+            "relevance_score": 14
+        },
+        {
+            "title": "Wittamer & Co",
+            "relevance_score": 13
+        },
+        {
+            "title": "Time and Trauma",
+            "relevance_score": 13
+        },
+        {
+            "title": "John Coyne (soccer)",
+            "relevance_score": 13
+        },
+        {
+            "title": "Amendments to the Citizenship Law (popular initiative, Latvia)",
+            "relevance_score": 13
+        },
+        {
+            "title": "Kondarangi Keeranur",
+            "relevance_score": 13
+        },
+        {
+            "title": "Mutharamkunnu P.O.",
+            "relevance_score": 13
+        },
+        {
+            "title": "Joachim Schmettau",
+            "relevance_score": 12
+        },
+        {
+            "title": "Sheer Greed (band)",
+            "relevance_score": 11
+        },
+        {
+            "title": "Tristram T. Hyde",
+            "relevance_score": 11
+        },
+        {
+            "title": "Parker Pond (Maryland)",
+            "relevance_score": 11
+        },
+        {
+            "title": "Alvarus E. Gilbert",
+            "relevance_score": 11
+        },
+        {
+            "title": "Confessions of an Opium Eater",
+            "relevance_score": 11
+        },
+        {
+            "title": "List of Scandinavian restaurants",
+            "relevance_score": 11
+        },
+        {
+            "title": "Hannah Aitchison",
+            "relevance_score": 10
+        },
+        {
+            "title": "Tora-san's Promise",
+            "relevance_score": 10
+        },
+        {
+            "title": "United Nations Security Council Resolution 1610",
+            "relevance_score": 9
+        },
+        {
+            "title": "Edmund Boulnois",
+            "relevance_score": 9
+        },
+        {
+            "title": "Ernest Alexander (disambiguation)",
+            "relevance_score": 9
+        },
+        {
+            "title": "Telstar 301",
+            "relevance_score": 9
+        },
+        {
+            "title": "Claw (juggling)",
+            "relevance_score": 9
+        },
+        {
+            "title": "Illinois Department of Employment Security",
+            "relevance_score": 9
+        },
+        {
+            "title": "Elevci",
+            "relevance_score": 9
+        },
+        {
+            "title": "Trent Bray (American football)",
+            "relevance_score": 8
+        },
+        {
+            "title": "Iloilo Provincial Board",
+            "relevance_score": 8
+        },
+        {
+            "title": "Eiji (Ryukyu)",
+            "relevance_score": 8
+        },
+        {
+            "title": "1913 Kendall Orange and Black football team",
+            "relevance_score": 8
+        },
+        {
+            "title": "Garbuttsville Cemetery",
+            "relevance_score": 7
+        },
+        {
+            "title": "Enrico Maaßen",
+            "relevance_score": 7
+        },
+        {
+            "title": "Herb Asher",
+            "relevance_score": 7
+        },
+        {
+            "title": "Euprymna",
+            "relevance_score": 7
+        },
+        {
+            "title": "Law Cheung-kwok",
+            "relevance_score": 7
+        },
+        {
+            "title": "Lasionycta coracina",
+            "relevance_score": 6
+        },
+        {
+            "title": "Lake Télé Community Reserve",
+            "relevance_score": 6
+        },
+        {
+            "title": "Yuumi",
+            "relevance_score": 6
+        },
+        {
+            "title": "Hemistigma albipunctum",
+            "relevance_score": 6
+        },
+        {
+            "title": "Goat Haunt Mountain",
+            "relevance_score": 6
+        },
+        {
+            "title": "Firebase Currahee",
+            "relevance_score": 6
+        },
+        {
+            "title": "Songs from the Chinese Poets",
+            "relevance_score": 6
+        },
+        {
+            "title": "Fanbyn",
+            "relevance_score": 5
+        },
+        {
+            "title": "Arcos Reservoir",
+            "relevance_score": 5
+        },
+        {
+            "title": "Hans Wunderlich",
+            "relevance_score": 5
+        },
+        {
+            "title": "Prospectatrix",
+            "relevance_score": 5
+        },
+        {
+            "title": "Juan Pablo González",
+            "relevance_score": 5
+        },
+        {
+            "title": "Cecil Marshall",
+            "relevance_score": 5
+        },
+        {
+            "title": "Palmer Williams Jr.",
+            "relevance_score": 5
+        },
+        {
+            "title": "Harmologa amplexana",
+            "relevance_score": 5
+        },
+        {
+            "title": "Richard Houghton (died c. 1422)",
+            "relevance_score": 5
+        },
+        {
+            "title": "Hulk Hogan's Main Event",
+            "relevance_score": 4
+        },
+        {
+            "title": "Raffaele Piria",
+            "relevance_score": 4
+        },
+        {
+            "title": "You'll Never Know (Kim Richey song)",
+            "relevance_score": 4
+        },
+        {
+            "title": "1899–1900 Woolwich Arsenal F.C. season",
+            "relevance_score": 4
+        },
+        {
+            "title": "Building at 813–815 Forest Avenue",
+            "relevance_score": 4
+        },
+        {
+            "title": "Osiny, Łask County",
+            "relevance_score": 4
+        },
+        {
+            "title": "At Point Blank (TV series)",
+            "relevance_score": 4
+        },
+        {
+            "title": "Bois Moquette",
+            "relevance_score": 4
+        },
+        {
+            "title": "Try Me (Dej Loaf song)",
+            "relevance_score": 4
+        },
+        {
+            "title": "Robocco Wars",
+            "relevance_score": 3
+        },
+        {
+            "title": "1959 (John Anderson song)",
+            "relevance_score": 3
+        },
+        {
+            "title": "Mombo Airstrip",
+            "relevance_score": 3
+        },
+        {
+            "title": "Žirovnica, Sevnica",
+            "relevance_score": 3
+        },
+        {
+            "title": "Megalovalvata baicalensis",
+            "relevance_score": 3
+        },
+        {
+            "title": "1963 Ohio Bobcats football team",
+            "relevance_score": 3
+        },
+        {
+            "title": "Zugliano",
+            "relevance_score": 3
+        },
+        {
+            "title": "Robert Klein (Medal of Honor)",
+            "relevance_score": 3
+        },
+        {
+            "title": "Behavioral modeling in computer-aided design",
+            "relevance_score": 2
+        },
+        {
+            "title": "Dysgnathia",
+            "relevance_score": 2
+        },
+        {
+            "title": "Walter Calverley (disambiguation)",
+            "relevance_score": 2
+        },
+        {
+            "title": "Kırahmetler, Gazipaşa",
+            "relevance_score": 2
+        },
+        {
+            "title": "Portalegre Municipality",
+            "relevance_score": 2
+        },
+        {
+            "title": "Aiptasiidae",
+            "relevance_score": 2
+        },
+        {
+            "title": "Republic of the Congo at the 2019 World Athletics Championships",
+            "relevance_score": 2
+        },
+        {
+            "title": "Spathorhynchus",
+            "relevance_score": 2
+        },
+        {
+            "title": "Graham Creek (Rogue River tributary)",
+            "relevance_score": 2
+        },
+        {
+            "title": "Hiroshi Minami (actor)",
+            "relevance_score": 1
+        },
+        {
+            "title": "Gábor Herendi",
+            "relevance_score": 1
+        },
+        {
+            "title": "Eugène Eschassériaux",
+            "relevance_score": 1
+        },
+        {
+            "title": "Fatih Bridge",
+            "relevance_score": 1
+        },
+        {
+            "title": "Salaq-e Nuri",
+            "relevance_score": 1
+        },
+        {
+            "title": "Buffaloes F.C.",
+            "relevance_score": 1
+        },
+        {
+            "title": "1997 Women's British Open Squash Championship",
+            "relevance_score": 1
+        },
+        {
+            "title": "Yevgeniy Abramovich",
+            "relevance_score": 1
+        },
+        {
+            "title": "Michael Roberts (tennis)",
+            "relevance_score": 1
+        },
+        {
+            "title": "Entomobrya triangularis",
+            "relevance_score": 1
+        }
+    ]
+}
